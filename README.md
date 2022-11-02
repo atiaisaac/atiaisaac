@@ -59,6 +59,8 @@ I am always on the lookout for what's new in the AI/ML and the embedded electron
    - [x] Solidworks for 3D modelling
    
    - [x] EasyEda for schematic and PCB design
+   - [x] Openvino
+  - [x] Docker
  
   
   <h3 align="center"> Yet to Learn </h3>
